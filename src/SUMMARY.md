@@ -27,6 +27,8 @@
         - [Nginx](./chap02/apps/nginx.md)
 
         - [Wamr](./chap02/apps/wamr.md)
+
+        - [Busybox](./chap02/apps/busybox.md)
     
     - [运行预编译应用](./chap02/ELF-loader.md)
 
